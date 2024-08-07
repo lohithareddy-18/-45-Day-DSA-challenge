@@ -61,24 +61,6 @@ Contributing
 
 We welcome contributions to improve the 45 Days DSA Challenge. If you have any suggestions, additional problems, or improvements, please open an issue or submit a pull request. Follow these steps to contribute:
 
-Fork the repository.
-Create a new branch.
-bash
-Copy code
-git checkout -b feature-branch
-Make your changes.
-Commit your changes.
-bash
-Copy code
-git commit -m "Description of changes"
-Push to the branch.
-bash
-Copy code
-git push origin feature-branch
-Open a pull request.
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgments
 
