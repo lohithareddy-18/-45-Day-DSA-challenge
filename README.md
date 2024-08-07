@@ -14,7 +14,7 @@ How to Use
 Clone the Repository: Start by cloning this repository to your local machine.
 bash
 Copy code
-git clone https://github.com/username/-45-Day-DSA-challenge.git
+git clone https://github.com/lohithareddy-18/-45-Day-DSA-challenge.git
 Follow the Daily Schedule: Each day, focus on the specified topic and solve the recommended problems.
 Implement the Solutions: Write your solutions in your preferred programming language.
 Mark as Complete: Track your progress by marking problems and topics as complete.
