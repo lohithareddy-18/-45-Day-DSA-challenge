@@ -28,21 +28,37 @@ Review and Revise: Regularly review solved problems and revisit challenging topi
 Daily Schedule
 
 Day 1-3: Arrays
+
 Day 4-6: Strings
+
 Day 7-9: Linked Lists
+
 Day 10-12: Stacks and Queues
+
 Day 13-15: Trees
+
 Day 16-18: Graphs
+
 Day 19-21: Hashing
+
 Day 22-24: Sorting and Searching
+
 Day 25-27: Dynamic Programming
+
 Day 28-30: Greedy Algorithms
+
 Day 31-33: Bit Manipulation
+
 Day 34-36: Recursion and Backtracking
+
 Day 37-39: Heaps and Priority Queues
+
 Day 40-42: Graph Algorithms
+
 Day 43-45: Mixed Problems and Mock Interviews
+
 Contributing
+
 We welcome contributions to improve the 45 Days DSA Challenge. If you have any suggestions, additional problems, or improvements, please open an issue or submit a pull request. Follow these steps to contribute:
 
 Fork the repository.
